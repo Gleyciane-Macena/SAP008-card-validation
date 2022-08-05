@@ -26,7 +26,7 @@ seus dígitos finais for um múltiplo de 10.
 Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 ## 2. Resumo do projeto
-![Intergalactic Card Information](src\img\Capturar.PNG)
+![Intergalactic Card Information](src/img/Capturar.PNG)
 Neste projeto proposto pela Laboratoria, precisei criar um aplicativo de Web que permita ao usuário
 validar o número de um cartão de crédito. De tema livre, um aplicativo com a premissa de interagir com uma pessoa ao final do desenvolvimento através do navegador, usando HTML, CSS e
 JavaScript como tecnologias.
